@@ -1,6 +1,6 @@
 package fr.hello;
 
-public class HelloWorld {
+public class HelloWorld extends Afficher {
 
 	public static void main(String[] args) {
 		/**
