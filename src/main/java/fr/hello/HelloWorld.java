@@ -14,7 +14,7 @@ public class HelloWorld {
 		
 		String message = "Hello Maven World";
 		Afficher A = new Afficher( );
-		A.display(message) ;
+		system.out.println(message);
 
 	}
 
